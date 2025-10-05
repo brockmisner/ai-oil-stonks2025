@@ -1,0 +1,26 @@
+# Core geospatial + numerics
+numpy>=1.25
+pandas>=2.0
+xarray>=2023.1
+geopandas>=0.14
+shapely>=2.0
+pyproj>=3.6
+rasterio>=1.3
+rioxarray>=0.15
+pillow>=10
+matplotlib>=3.8
+
+# Pipeline / CLI / config
+typer>=0.9
+rich>=13
+pydantic>=2.5
+pyyaml>=6.0.1
+python-dotenv>=1.0
+tqdm>=4.66
+
+# Optional data access (comment out if not needed)
+asf_search>=6.4       # Sentinel-1 discovery (ASF/Vertex)
+hyp3_sdk>=3.5         # Submit RTC jobs to HyP3 (account required)
+sentinelhub>=3.9      # Sentinel Hub / Copernicus Dataspace helpers
+earthengine-api>=0.1.400  # Google Earth Engine (optional)
+requests>=2.31
