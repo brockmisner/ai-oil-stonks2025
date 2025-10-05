@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cushing_AOI_placeholder"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -96.92,
+              35.8
+            ],
+            [
+              -96.92,
+              36.06
+            ],
+            [
+              -96.56,
+              36.06
+            ],
+            [
+              -96.56,
+              35.8
+            ],
+            [
+              -96.92,
+              35.8
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
