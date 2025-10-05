@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "tank_001",
+        "radius_m": 45,
+        "roof_type": "floating"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.79,
+          35.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "tank_002",
+        "radius_m": 60,
+        "roof_type": "floating"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.77,
+          35.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "tank_003",
+        "radius_m": 55,
+        "roof_type": "fixed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.75,
+          35.96
+        ]
+      }
+    }
+  ]
+}
